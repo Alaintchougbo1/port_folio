@@ -15,6 +15,7 @@ const TAB_DATA = [
         <li>Sequelize</li>
         <li>JavaScript</li>
         <li>React</li>
+        <li>Next</li>
       </ul>
     ),
   },
