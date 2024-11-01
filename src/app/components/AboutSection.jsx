@@ -25,6 +25,8 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <li>Coding Academy</li>
         <li>EPITECH</li>
+        <li>Étude en licence de Génie Logiciel à Institut de Formation et de Recherche en Informatique(IFRI)</li>
+        <li>Diplôme du Technicien(DT) en Installation Maintenance Informatique (IMI) au Lycée Technique de Bohicon (LYTEB)</li>
       </ul>
     ),
   },
