@@ -66,12 +66,11 @@ const AboutSection = () => {
   return (
     <section className="text-white" id="about">
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
-        <Image src="/images/about-image.png" width={500} height={500} />
+        <Image src="/images/about-image.png" width={500} height={900} />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">À propos de moi</h2>
           <p className="text-base lg:text-lg">
-          Développeur en formation passionné par l'évolution technologique, je suis résolument engagé dans l'apprentissage continu. Axé sur le développement, je cherche à approfondir mes compétences dans des domaines tels que le développement d'application et la science des données . Actuellement en apprentissage, je me consacre à rester à jour avec les dernières tendances de l'industrie pour créer des solutions innovantes.
-Mon intérêt grandissant pour les données et le traitement de l'information m'a amené à explorer les aspects de l'analyse et de la gestion des données. Mon objectif est de contribuer de manière significative à la technologie en fournissant des solutions robustes. Je suis ouvert aux opportunités de collaboration et de croissance professionnelle, enthousiaste à l'idée de participer à des projets stimulants et d'apprendre de professionnels chevronnés. Contactez-moi pour discuter de collaborations potentielles, de conseils ou simplement pour partager nos passions communes liées au développement.
+              Développeur en formation passionné par l'évolution technologique, je suis résolument engagé dans l'apprentissage continu. Axé sur le développement, je cherche à approfondir mes compétences dans des domaines tels que le développement d'application et la science des données . Actuellement en apprentissage, je me consacre à rester à jour avec les dernières tendances de l'industrie pour créer des solutions innovantes.Mon intérêt grandissant pour les données et le traitement de l'information m'a amené à explorer les aspects de l'analyse et de la gestion des données. Mon objectif est de contribuer de manière significative à la technologie en fournissant des solutions robustes. Je suis ouvert aux opportunités de collaboration et de croissance professionnelle, enthousiaste à l'idée de participer à des projets stimulants et d'apprendre de professionnels chevronnés. Contactez-moi pour discuter de collaborations potentielles, de conseils ou simplement pour partager nos passions communes liées au développement.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
