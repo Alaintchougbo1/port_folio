@@ -35,7 +35,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Passionné par l&apos;innovation technologique, je suis un développeur adaptable, capable de maîtriser rapidement toute technologie en un temps records pour relever des défis en développement full stack et contribuer à des projets à fort impact.
+            Passionné par l&apos;innovation technologique, je suis un développeur adaptable, capable de maîtriser rapidement toute technologie pour relever des défis en développement full stack et contribuer à des projets à fort impact.
           </p>
           <div>
             <Link
