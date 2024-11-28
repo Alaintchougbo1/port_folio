@@ -42,7 +42,7 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <li>Certificat de développeur web option full stack à la Coding Academy By EPITECH</li>
         <li>Certificat en Data/IA option Data Engeering par Afica Tech Up Tour</li>
-        <li>Certificat programmation en python et Intelligence Artificielle au club d'IA de la bibliothèque Bénin Excellence</li>
+        <li>Certificat programmation en python et Intelligence Artificielle au club d&apos;IA de la bibliothèque Bénin Excellence</li>
 
       </ul>
     ),
