@@ -40,8 +40,10 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>Certified JavaScript Developer</li>
-        <li>Certified React Developer</li>
+        <li>Certificat de développeur web option full stack à la Coding Academy By EPITECH</li>
+        <li>Certificat en Data/IA option Data Engeering par Afica Tech Up Tour</li>
+        <li>Certificat programmation en python et Intelligence Artificielle au club d'IA de la bibliothèque Bénin Excellence</li>
+
       </ul>
     ),
   },
