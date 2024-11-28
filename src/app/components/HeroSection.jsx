@@ -35,7 +35,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Passionné par l'informatique, je suis un développeur web full stack et mobile. J'ai une expérience de plus de 3 ans dans le développement web et mobile. Je suis spécialisé dans le développement d'applications web et mobiles avec des technologies modernes.
+            Passionné par informatique, je suis un développeur web full stack et mobile. Jai une expérience de plus de 3 ans dans le développement web et mobile. Je suis spécialisé dans le développement applications web et mobiles avec des technologies modernes.
           </p>
           <Link
             href="/#contact"
