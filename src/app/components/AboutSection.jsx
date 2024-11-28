@@ -1,5 +1,3 @@
-
-
 "use client";
 import React, { useState } from "react";
 import Image from "next/image";
@@ -33,10 +31,8 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Coding Academy</li>
-        <li>EPITECH</li>
-        <li>Étude en licence de Génie Logiciel à Institut de Formation et de Recherche en Informatique(IFRI)</li>
-        <li>Diplôme du Technicien(DT) en Installation Maintenance Informatique (IMI) au Lycée Technique de Bohicon (LYTEB)</li>
+        <li>Bachelor&apos;s Degree in Computer Science</li>
+        <li>Master&apos;s Degree in Software Engineering</li>
       </ul>
     ),
   },
@@ -45,15 +41,12 @@ const TAB_DATA = [
     id: "certifications",
     content: (
       <ul className="list-disc pl-2">
-        <li>Certificat de développeur web option full stack à la Coding Academy By EPITECH</li>
-        <li>Certificat en Data/IA option Data Engeering par Afica Tech Up Tour</li>
-        <li>Certificat programmation en python et Intelligence Artificielle au club d'IA de la bibliothèque Bénin Excellence</li>
-        
+        <li>Certified JavaScript Developer</li>
+        <li>Certified React Developer</li>
       </ul>
     ),
   },
 ];
-
 
 const AboutSection = () => {
   const [activeTab, setActiveTab] = useState(TAB_DATA[0].id);
